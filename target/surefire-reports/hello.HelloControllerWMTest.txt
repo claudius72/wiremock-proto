@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: hello.HelloControllerWMTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.213 s <<< FAILURE! - in hello.HelloControllerWMTest
+testGetBook(hello.HelloControllerWMTest)  Time elapsed: 0.006 s  <<< FAILURE!
+java.lang.AssertionError: Not yet implemented
+	at hello.HelloControllerWMTest.testGetBook(HelloControllerWMTest.java:31)
+
